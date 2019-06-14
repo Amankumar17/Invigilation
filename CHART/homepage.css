@@ -1,8 +1,8 @@
 img.logo
 {
-    height: 100px;
+    height: 80px;
     margin-left: 20px;
-
+    
     width:200px;
    
 }
@@ -10,7 +10,8 @@ img.logo
 div.header
 {   
     font-family: 'Times New Roman', Times, serif;
-    font-size: 45px;
+    font-size: 50px;
+    font-stretch: semi-expanded;
     
 }
 
@@ -23,12 +24,30 @@ hr
 div.BOX
 {   width: 500px;
     margin-top: 50px;
-    border: 5px solid black;
+    border: 5px solid red;
     height: 300px;
     margin-bottom: 75px;
+    
 }
 
 div.footer
 {
    font-family: 'Times New Roman', Times, serif; 
+   
+}
+
+fieldset
+{
+    border: 3px solid orangered;
+    width:500px;
+    height: 300px;
+    margin-bottom: 75px;
+    margin-top: 10px;
+
+}
+
+legend
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
