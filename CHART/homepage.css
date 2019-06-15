@@ -66,14 +66,23 @@ i.fas.fa-lock
 
 
 div.content1
-{
+{   margin-top:50px;
     margin-left: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
 }
+
 
 i.fas.fa-school
 {
     color:black;
     padding-right: 20 px;
 }
+
+div.content2
+{   margin-top:20px;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
