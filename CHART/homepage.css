@@ -24,7 +24,7 @@ hr
 div.BOX
 {   width: 500px;
     margin-top: 50px;
-    border: 5px solid red;
+    border: 5px solid violet;
     height: 300px;
     margin-bottom: 75px;
     
@@ -38,7 +38,7 @@ div.footer
 
 fieldset
 {
-    border: 3px solid orangered;
+    border: 3px solid firebrick;
     width:500px;
     height: 300px;
     margin-bottom: 75px;
@@ -50,4 +50,30 @@ legend
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
+}
+
+i.fas.fa-user
+{
+   color: black;
+   padding-right: 50px;
+}
+
+i.fas.fa-lock
+{
+    color: black;
+    padding-right: 50px;
+}
+
+
+div.content1
+{
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+i.fas.fa-school
+{
+    color:black;
+    padding-right: 20 px;
 }
