@@ -28,8 +28,9 @@ hr
 }
 
 div.BOX
-{   width: 500px;
-    margin-top: 50px;
+{   
+    width: 500px;
+    margin-top: 80px;
     border: 5px solid violet;
     height: 300px;
     margin-bottom: 75px;
@@ -49,13 +50,14 @@ fieldset
     height: 300px;
     margin-bottom: 75px;
     margin-top: 10px;
-    
+    padding-top: 30px;
 
 }
 
 legend
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
     
 }
 
@@ -92,4 +94,3 @@ div.content2
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
-
