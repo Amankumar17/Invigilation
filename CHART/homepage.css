@@ -1,3 +1,9 @@
+body{
+    background:url("trianglify.png");
+  background-size: 100%;
+  opacity: 0.8;
+}
+
 img.logo
 {
     height: 80px;
@@ -43,13 +49,14 @@ fieldset
     height: 300px;
     margin-bottom: 75px;
     margin-top: 10px;
+    
 
 }
 
 legend
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+    
 }
 
 i.fas.fa-user
@@ -66,10 +73,10 @@ i.fas.fa-lock
 
 
 div.content1
-{   margin-top:50px;
+{   margin-top:20px;
     margin-left: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
@@ -83,6 +90,6 @@ div.content2
 {   margin-top:20px;
     margin-left: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 
