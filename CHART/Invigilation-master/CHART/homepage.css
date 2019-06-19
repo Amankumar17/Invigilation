@@ -1,0 +1,96 @@
+body{
+    background:url("trianglify.png");
+  background-size: 100%;
+  width: 100%;
+  
+}
+
+img.logo
+{
+    height: 80px;
+    margin-left: 20px;
+    
+    width:200px;
+   
+}
+
+div.header
+{   
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-stretch: semi-expanded;
+    
+}
+
+hr
+{
+    height: 0.5mm;
+    background-color: black;
+}
+
+div.BOX
+{   width: 500px;
+    margin-top: 50px;
+    border: 5px solid violet;
+    height: 300px;
+    margin-bottom: 75px;
+    
+}
+
+div.footer
+{
+   font-family: 'Times New Roman', Times, serif; 
+   
+}
+
+fieldset
+{
+    border: 3px solid firebrick;
+    width:500px;
+    height: 300px;
+    margin-bottom: 75px;
+    margin-top: 10px;
+    padding-top: 30px;
+
+}
+
+legend
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+i.fas.fa-user
+{
+   color: black;
+   padding-right: 50px;
+}
+
+i.fas.fa-lock
+{
+    color: black;
+    padding-right: 50px;
+}
+
+
+div.content1
+{   margin-top:20px;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+i.fas.fa-school
+{
+    color:black;
+    padding-right: 20 px;
+}
+
+div.content2
+{   margin-top:20px;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
