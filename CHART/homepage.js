@@ -5,12 +5,14 @@ function check()
     console.log(uname +" is "+pass);
     if(uname.value=="RAJA" && pass.value=="12345"){
         alert("HELLO "+uname.value+" YOU ARE SUCCESSFULLY SIGNED IN!!");
-        
+        window.close();
+        window.open("page2.html");
                 }
     else {     
             alert("USERNAME/PASSWORD MISMATCHED!!"); 
-               location.reload(true);
-               
+            window.close();
+            window.open("homepage.html");
+           
         }
    
 }

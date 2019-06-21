@@ -87,3 +87,12 @@ div.content2
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
+
+button#BUTTON1
+{   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    width: 100px;
+    border-radius: 50px;
+    
+}
